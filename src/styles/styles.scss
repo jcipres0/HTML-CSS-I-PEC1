@@ -295,7 +295,7 @@ h1, h2{
     align-items: center;
     position: fixed;
     top: 0;
-    height: 15svh;
+    height: 14vh;
     z-index: 1; 
     width: 100%;
     background-color: $background_color;
@@ -338,12 +338,12 @@ h1, h2{
 }
 @media (max-width: $sizescreen_0){
     .container-head{
-        height: 18svh;
+        height: 16vh;
     }
 }
 @media(min-width: $sizescreen_0){
     .container-head{
-        height: 18svh;
+        height: 12vh;
     }
 }
 @media (min-width: $sizescreen_1) and (max-width: $sizescreen_2){
@@ -354,7 +354,7 @@ h1, h2{
        padding-top: 0.2rem;
     }
     .container-head{
-        height: 14vh;
+        height: 12vh;
     }
 }
 @media (min-width: $sizescreen_2) and (max-width: $sizescreen_3){
