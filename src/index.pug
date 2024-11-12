@@ -5,7 +5,7 @@ html(lang="es")
         meta(name="viewport", content="width=device-width, initial-scale=1.0")
         link(rel="icon" type="image/png" href="./img/montanas.svg")
         title Nocito 
-        link(rel="stylesheet", href="./styles/styles.scss")
+        link(rel="stylesheet", href="styles/styles.scss")
 
         //-uso de la API de mapkcik para situar en el mapa Nocito
 
@@ -19,11 +19,11 @@ html(lang="es")
             section.pasafotos 
                 div.slider
                     div.slider-inner
-                        img(src="./img/01.jpg")
+                        img(src="img/01.jpg")
                     div.slider-inner
-                        img(src="./img/02.jpg")
+                        img(src="img/02.jpg")
                     div.slider-inner
-                        img(src="./img/03.jpg")
+                        img(src="img/03.jpg")
             section.container-map
                 div.container-entrada  
                     div
@@ -40,8 +40,12 @@ html(lang="es")
                         h2 ... y ahora, en detalle
                         br
                     div: a.boton(href="./categorias.pug") Nocito en detalle
+
+
                 <div id="map"></div>
                 <script>new Mapkick.Map("map", [{latitude: 42.320626, longitude: -0.254281}],{zoom: 8, controls: true})</script>
+
+                
             section.comentarios 
                 div.titulo: h2 ¿Qué opina la gente?
                         br  

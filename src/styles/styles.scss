@@ -295,7 +295,7 @@ h1, h2{
     align-items: center;
     position: fixed;
     top: 0;
-    height: 12svh;
+    height: 15svh;
     z-index: 1; 
     width: 100%;
     background-color: $background_color;
@@ -343,7 +343,7 @@ h1, h2{
 }
 @media(min-width: $sizescreen_0){
     .container-head{
-        height: 14svh;
+        height: 18svh;
     }
 }
 @media (min-width: $sizescreen_1) and (max-width: $sizescreen_2){
@@ -354,14 +354,14 @@ h1, h2{
        padding-top: 0.2rem;
     }
     .container-head{
-        height: 12svh;
+        height: 14vh;
     }
 }
 @media (min-width: $sizescreen_2) and (max-width: $sizescreen_3){
     .container-head{
         flex-direction: row;
         justify-content: space-between;
-        height: 12svh;
+        height: 12vh;
     }
     .titulo{
         flex: 1;
@@ -381,7 +381,7 @@ h1, h2{
     .container-head{
         flex-direction: row;
         justify-content: space-between;
-        height: 12svh;
+        height: 12vh;
     }
     .titulo{
         flex: 1;
