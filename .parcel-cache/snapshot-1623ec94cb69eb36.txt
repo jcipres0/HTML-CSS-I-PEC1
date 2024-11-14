@@ -49,7 +49,7 @@
 103C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2021\IsExtensible.js133751036897866576 0
 120C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\caniuse-lite\data\features\css-read-only-write.js133751036875900654 0
 85C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\object-inspect133751036851241279 1
-80C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\index.8605d291.js133759183808345594 0
+80C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\index.8605d291.js133760543351248796 0
 71C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\src\index.pug133758024479434440 0
 115C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\plugin-transform-shorthand-properties133751036839958299 1
 108C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\typed-array-byte-offset\tsconfig.json133751036840377140 0
@@ -130,7 +130,7 @@
 113C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2021\OrdinaryGetPrototypeOf.js133751036909128759 0
 94C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2020\BigInt133751036928055984 1
 101C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2015\IsWordChar.js133751036901077922 0
-62C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist133759183808491704 1
+62C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist133760543351409818 1
 80C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\lru-cache133751036835572102 1
 103C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\function.prototype.name\index.js133751036842125053 0
 68C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\src\app.js133744016501590678 0
@@ -278,7 +278,7 @@
 79C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\pug-walk133751036836941317 1
 108C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2020\Number\unaryMinus.js133751036927666177 0
 119C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\wrap-ansi-cjs\node_modules\ansi-styles\readme.md133751036836183705 0
-80C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\src\styles\styles.scss133759183660557085 0
+80C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\src\styles\styles.scss133760543167878577 0
 107C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2021\thisBooleanValue.js133751036918573136 0
 100C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\entities\lib\encode-trie.d.ts133751036849308769 0
 85C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\supports-color133751036836922441 1
@@ -1319,7 +1319,6 @@
 142C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\plugin-transform-private-property-in-object\tsconfig.tsbuildinfo133751036841543083 0
 84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\nth-check\lib133751036849436837 1
 80C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\minimatch133751036835913865 1
-85C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\index.ade8d44a.css.map133759183808476526 0
 79C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\minipass133751036844781802 1
 96C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\parcel\node_modules\chalk133751036840356680 1
 127C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\transformer-js\node_modules\semver\bin\semver.js133751036853712054 0
@@ -4245,7 +4244,7 @@
 103C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2019\ToUint8Clamp.js133751036925965023 0
 121C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\core\test\fixtures\plugins\local-plugin.js133751036865182443 0
 107C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\resolve\test\module_dir\xmodules\aaa133751036853434675 1
-78C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\categorias.html133759183808345594 0
+78C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\categorias.html133760543351238763 0
 115C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\plugin-transform-classes\lib\index.js133751036835045524 0
 99C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\object-inspect\test\undef.js133751036849354444 0
 106C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\autoprefixer\lib\hacks\flex-spec.js133751036850947439 0
@@ -6009,7 +6008,7 @@
 111C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@swc\helpers\src\_async_to_generator.mjs133751036882701704 0
 106C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\has-tostringtag\.github\FUNDING.yml133751036845461577 0
 91C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\node-addon-api\tools133751036847790119 1
-75C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\eventos.html133759183808345594 0
+75C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\eventos.html133760543351238763 0
 100C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2015\ToInteger.js133751036922724019 0
 105C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\node-addon-api\tools\check-napi.js133751036844781802 0
 105C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\node-addon-api\tools\conversion.js133751036845540826 0
@@ -7068,6 +7067,7 @@
 137C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\glob\node_modules\minimatch\dist\esm\assert-valid-pattern.d.ts.map133751036846950325 0
 109C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2024\SpeciesConstructor.js133751036916033048 0
 111C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2020\BigInt\sameValueZero.js133751036913293462 0
+85C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\index.6f2dbd29.css.map133760543351389965 0
 131C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\glob\node_modules\minimatch\dist\esm\assert-valid-pattern.js133751036836608581 0
 112C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\packager-wasm\lib\WasmPackager.js133751036838250278 0
 135C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\glob\node_modules\minimatch\dist\esm\assert-valid-pattern.js.map133751036847557943 0
@@ -8064,7 +8064,7 @@
 102C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@isaacs\cliui\build\index.d.cts133751036833509104 0
 103C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\utils\src\relativeUrl.js133751036861228602 0
 102C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2023\ArrayCreate.js133751036864892280 0
-85C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\motoretro.b86c54fd.jpg133759183799825053 0
+85C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\motoretro.b86c54fd.jpg133760543344097760 0
 136C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs133751036883103074 0
 105C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2023\ArraySetLength.js133751036866015392 0
 124C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2023\AsyncFromSyncIteratorContinuation.js133751036868638758 0
@@ -8820,7 +8820,7 @@
 128C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\node-resolver-core\node_modules\semver\preload.js133751036851883436 0
 139C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\_applyTransforms.js133751036835511720 0
 108C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2021\Number\bitwiseNOT.js133751036871902555 0
-85C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\instagram.b1db25d6.svg133759183801956902 0
+85C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\instagram.b1db25d6.svg133760543346521379 0
 107C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2021\Number\bitwiseOR.js133751036872520676 0
 108C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2021\Number\bitwiseXOR.js133751036873115271 0
 103C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2021\Number\equal.js133751036887231223 0
@@ -8946,7 +8946,7 @@
 117C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\caniuse-lite\data\features\devicepixelratio.js133751036879181291 0
 101C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2020\RegExpExec.js133751036911681769 0
 113C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2020\RequireObjectCoercible.js133751036912291756 0
-93C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\foto-mia-presenta.885d4309.jpg133759183799835037 0
+93C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\foto-mia-presenta.885d4309.jpg133760543344095981 0
 122C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\core\node_modules\semver\functions\minor.js133751036850135973 0
 110C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2020\SameValueNonNumeric.js133751036913012411 0
 102C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2020\SecFromTime.js133751036913732371 0
@@ -9214,7 +9214,7 @@
 102C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2018\DayFromYear.js133751036884230761 0
 119C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\css-select\node_modules\entities\lib\escape.d.ts133751036860763736 0
 101C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2018\DaysInYear.js133751036884690211 0
-83C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\youtube.b75c3407.svg133759183806506470 0
+83C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\youtube.b75c3407.svg133760543349561671 0
 110C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js133751036860936143 0
 112C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\es-abstract\2018\DefinePropertyOrThrow.js133751036885624607 0
 122C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\csso\node_modules\css-tree\lib\syntax\node\Ratio.js133751036876514867 0
@@ -10411,6 +10411,7 @@
 110C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\css-tree\cjs\generator\token-before.cjs133751036868412670 0
 101C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\helper-validator-option133751036843195222 1
 111C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\css-tree\cjs\definition-syntax\index.cjs133751036859566073 0
+81C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\index.6f2dbd29.css133760543351235125 0
 110C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\css-tree\cjs\definition-syntax\walk.cjs133751036869753604 0
 104C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\packager-svg\package.json133751036836790017 0
 103C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\css-tree\cjs\convertor\index.cjs133751036858073757 0
@@ -11307,7 +11308,7 @@
 104C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\babel-plugin-polyfill-corejs3\lib133751036845560866 1
 113C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\workers\src\core-worker.browser.js133751036844141486 0
 108C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\babel-plugin-polyfill-corejs3\LICENSE133751036831361851 0
-84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\nocito-2.91ed58ec.jpg133759183799835037 0
+84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\nocito-2.91ed58ec.jpg133760543344086396 0
 113C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\babel-plugin-polyfill-corejs3\package.json133751036845987462 0
 110C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\babel-plugin-polyfill-corejs3\README.md133751036833058896 0
 128C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\babel-plugin-polyfill-corejs3\lib\built-in-definitions.js133751036844162469 0
@@ -11354,7 +11355,7 @@
 112C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@swc\helpers\esm\_wrap_async_generator.js133751036881891504 0
 90C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\ansi-regex\index.js133751036833058896 0
 99C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\autoprefixer\lib\supports.js133751036861264165 0
-85C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\nocito-51.0a88fb00.jpg133759183803195405 0
+85C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\nocito-51.0a88fb00.jpg133760543347314706 0
 101C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\autoprefixer\lib\transition.js133751036862106442 0
 97C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\autoprefixer\lib\vendor.js133751036862615235 0
 110C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\autoprefixer\lib\hacks\align-content.js133751036835652106 0
@@ -12636,7 +12637,7 @@
 135C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\package-manager\node_modules\semver\ranges\intersects.js133751036847130711 0
 139C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\package-manager\node_modules\semver\ranges\min-satisfying.js133751036849603620 0
 132C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\package-manager\node_modules\semver\ranges\outside.js133751036850694983 0
-95C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\foto-mia-2-presenta.c2d537ff.jpg133759183803205241 0
+95C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\foto-mia-2-presenta.c2d537ff.jpg133760543347323411 0
 139C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\package-manager\node_modules\semver\ranges\to-comparators.js133751036854851509 0
 130C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\package-manager\node_modules\semver\ranges\valid.js133751036855238227 0
 132C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\package-manager\node_modules\semver\internal\debug.js133751036843438454 0
@@ -12782,7 +12783,7 @@
 126C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax133751036862770624 1
 135C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\walker\index.js133751036862444882 0
 146C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\utils\createCustomError.js133751036850476949 0
-78C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\02.94d3f32a.jpg133759183799554670 0
+78C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\02.94d3f32a.jpg133760543343799026 0
 138C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\index.js133751036862350848 0
 138C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\utils.js133751036869474764 0
 133C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule133751036868648741 1
@@ -12993,7 +12994,6 @@
 127C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\LICENSE133751036831688472 0
 107C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\diagnostic\src\diagnostic.js133751036835683789 0
 130C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common133751036869031068 1
-81C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\index.ade8d44a.css133759183808345594 0
 142C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\general.d.ts.map133751036846812849 0
 141C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax133751036869864971 1
 158C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133751036866763327 0
@@ -13038,7 +13038,7 @@
 150C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Parentheses.js133751036865901805 0
 149C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Percentage.js133751036866232421 0
 160C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133751036867041993 0
-84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\index.5d5c488f.js.map133759183808476526 0
+84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\index.5d5c488f.js.map133760543351389965 0
 144C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Ratio.js133751036867144276 0
 142C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Raw.js133751036867317132 0
 96C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\types\lib\index.js133751865442766629 0
@@ -13946,7 +13946,7 @@
 101C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\preset-env\lib\debug.js133751036845830970 0
 108C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\preset-env\lib\filter-items.js133751036846638596 0
 112C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\preset-env\lib\filter-items.js.map133751036846937381 0
-95C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\foto-mia-4-presenta.8af25f96.jpg133759183803215538 0
+95C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\foto-mia-4-presenta.8af25f96.jpg133760543347323411 0
 118C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\preset-env\lib\module-transformations.js133751036847908490 0
 113C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\preset-env\lib\normalize-options.js133751036849039699 0
 103C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\preset-env\lib\options.js133751036849691959 0
@@ -14153,7 +14153,7 @@
 124C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\plugin-transform-block-scoping\lib\loop.js.map133751036842030836 0
 126C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\plugin-transform-block-scoping\lib\validation.js133751036842630271 0
 130C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\plugin-transform-block-scoping\lib\validation.js.map133751036843296973 0
-78C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\03.99ad84a6.jpg133759183803185256 0
+78C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\03.99ad84a6.jpg133760543347314706 0
 121C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\plugin-transform-block-scoped-functions\lib133751036836112903 1
 125C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\plugin-transform-block-scoped-functions\LICENSE133751036831528465 0
 130C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\@babel\plugin-transform-block-scoped-functions\package.json133751036837872619 0
@@ -14547,7 +14547,7 @@
 82C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\.bin\parcel133751036932081842 0
 86C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\.bin\parcel.ps1133751036932081842 0
 86C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\.bin\parser.cmd133751865449016597 0
-95C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\foto-mia-5-presenta.e5e5ad41.jpg133759183799825053 0
+95C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\foto-mia-5-presenta.e5e5ad41.jpg133760543344086396 0
 87C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\.bin\pidtree.cmd133751036932081842 0
 91C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\.bin\regjsparser.cmd133751036932081842 0
 83C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\.bin\resolve133751036932081842 0
@@ -14561,20 +14561,20 @@
 84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\.bin\svgo.cmd133751036932091556 0
 84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\.bin\svgo.ps1133751036932091556 0
 81C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\node_modules\.bin\which133751036932091556 0
-78C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\01.58704a43.jpg133759183803246334 0
-84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\anabarca.e4147025.jpg133759183803195405 0
-81C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\enate.6a08bf7d.jpg133759183799815068 0
-75C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\enlaces.html133759183808335609 0
-95C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\foto-mia-3-presenta.b8e84900.jpg133759183799825053 0
-76C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\historia.html133759183808345594 0
-80C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\index.5d5c488f.js133759183808345594 0
-84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\index.8605d291.js.map133759183808476526 0
-73C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\index.html133759183808335609 0
-84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\montanas.0ba5bfec.svg133759183801956902 0
-84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\nocito-3.799d36a5.jpg133759183803205241 0
-84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\nocito-6.990e2121.jpg133759183799825053 0
-91C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\nocito-presenta.990d54e6.jpg133759183803185256 0
-80C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\presentacion.html133759183808335609 0
-76C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\sentidos.html133759183808345594 0
-88C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\taller-papel.99988c24.jpg133759183803185256 0
-77C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\X.143e480f.svg133759183806506470 0
+78C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\01.58704a43.jpg133760543347323411 0
+84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\anabarca.e4147025.jpg133760543347284301 0
+81C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\enate.6a08bf7d.jpg133760543344086396 0
+75C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\enlaces.html133760543351235125 0
+95C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\foto-mia-3-presenta.b8e84900.jpg133760543344086396 0
+76C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\historia.html133760543351238763 0
+80C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\index.5d5c488f.js133760543351248796 0
+84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\index.8605d291.js.map133760543351389965 0
+73C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\index.html133760543351228794 0
+84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\montanas.0ba5bfec.svg133760543346531360 0
+84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\nocito-3.799d36a5.jpg133760543347343415 0
+84C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\nocito-6.990e2121.jpg133760543344086396 0
+91C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\nocito-presenta.990d54e6.jpg133760543347294757 0
+80C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\presentacion.html133760543351235125 0
+76C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\sentidos.html133760543351238763 0
+88C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\taller-papel.99988c24.jpg133760543347284301 0
+77C:\UTIL\MASTER\SynologyDrive\HTML-CSS2\PEC1\jcipres0_PEC1\dist\X.143e480f.svg133760543349561671 0

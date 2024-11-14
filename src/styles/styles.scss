@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+$sizescreen_00: 320px;
 $sizescreen_0: 428px;
 $sizescreen_1: 768px;
 $sizescreen_2: 992px;
@@ -33,6 +34,7 @@ $font-titles: 'Montserrat', serif;
                                 'opciones noticias';
         grid-template-columns: auto 25%;
         @include max-ancho();
+        margin-top: 2rem;
        
     }
     .text-entrada{
@@ -336,14 +338,20 @@ h1, h2{
     padding-left: 1rem;
     padding-right: 1rem;
 }
-@media (max-width: $sizescreen_0){
+@media (min-width: $sizescreen_00) and (max-width: $sizescreen_0){
     .container-head{
         height: 16vh;
     }
+    .titulo h1{
+        font-size: 1.3rem;
+    }
 }
-@media(min-width: $sizescreen_0){
+@media(min-width: $sizescreen_0) and (max-width: $sizescreen_1){
     .container-head{
-        height: 12vh;
+        height: 16vh;
+    }
+    .titulo h1{
+        font-size: 1.4rem;
     }
 }
 @media (min-width: $sizescreen_1) and (max-width: $sizescreen_2){
@@ -354,7 +362,7 @@ h1, h2{
        padding-top: 0.2rem;
     }
     .container-head{
-        height: 12vh;
+        height: 14vh;
     }
 }
 @media (min-width: $sizescreen_2) and (max-width: $sizescreen_3){
@@ -633,6 +641,7 @@ footer ul li {
                             'noticias';
     padding: 1rem;
     font-size: 1.1rem;
+    margin-top: 4rem;
 }  
 .text-entrada{ 
     grid-area: text-entrada; 
@@ -701,6 +710,7 @@ footer ul li {
         grid-template-areas:    'text-entrada text-entrada'
                                 'opciones noticias';
         grid-template-columns: auto 25%;
+        margin-top: 2rem;
     }
     .opciones {
         border: 1px solid transparent;
@@ -720,7 +730,7 @@ footer ul li {
 /*----------- estilos para la página de historia -----------*/
 
 .container-detail{
-    margin: 1rem;
+    margin: 4rem 1rem 1rem 1rem;
 }
 .breadcrumb{
     margin-top: 2rem;
@@ -770,7 +780,9 @@ footer ul li {
         width: 400px;
         height: 400px;
     }
-  
+    .container-detail{
+        margin: 2rem 1rem 1rem 1rem;
+    }
 }
 @media (min-width: $sizescreen_2) and (max-width: $sizescreen_3){
     .fotos-doc{
@@ -797,6 +809,9 @@ footer ul li {
         width: 400px;
         height: 400px;
     }
+    .container-detail{
+        margin: 2rem 1rem 1rem 1rem;
+    }
 }
 @media (min-width: $sizescreen_3){
     .container-detail{
@@ -816,7 +831,6 @@ footer ul li {
         font-size: 1.2rem;
     }
     .navegando1 a{
-
         font-size: 2rem;
         font-weight: 700;
     }
@@ -824,10 +838,11 @@ footer ul li {
         width: 700px;
         height: 700px;
     }
+   
 }
 /*----------- estilos para la página de sentidos -----------*/
 .container-sentidos{
-   margin: 1rem;
+   margin: 4rem 1rem 1rem 1rem;
 }  
 .container-sentidos h2{
     margin-top: 1rem;
@@ -890,6 +905,9 @@ footer ul li {
 
 @media (min-width: $sizescreen_1) and (max-width: $sizescreen_2){
   @include organiza-videos();
+  .container-sentidos{
+    margin: 2rem 1rem 1rem 1rem;
+  }
 }
 @media (min-width: $sizescreen_2) and (max-width: $sizescreen_3){
     @include organiza-videos();
@@ -897,6 +915,9 @@ footer ul li {
         font-size: 2rem;
         font-weight: 700;
     }
+    .container-sentidos{
+        margin: 2rem 1rem 1rem 1rem;
+      }
   }
 @media (min-width: $sizescreen_3){
     .container-sentidos{
